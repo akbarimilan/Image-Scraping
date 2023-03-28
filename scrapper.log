@@ -1,0 +1,159 @@
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:28] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:45:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:45:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:45:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:45:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:45:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:46:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:46:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 16:46:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:52:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:52:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:52:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:52:39] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:55:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:55:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:55:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:55:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:57:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:57:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:57:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'image_tag' is not defined
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:59:08] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'image_tag' is not defined
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:59:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:59:59] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:59:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 16:59:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'image_tag' is not defined
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:00:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:00:33] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:00:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:00:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'image_tag' is not defined
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:01:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:02:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:02:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:02:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:cannot encode object: <function index at 0x000001E033D6F640>, of type: <class 'function'>
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:03:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:04:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:04:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:04:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:04:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 17:04:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:16:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:16:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:16:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:16:50] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:18:18] "[33mGET /photos HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 18:18:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 18:18:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 18:18:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2023 18:18:48] "[33mGET /photos HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:19:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:19:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:19:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:19:31] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:20:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:20:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:20:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [24/Mar/2023 18:35:10] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:16:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:16:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:16:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:16:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:16:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:25:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:25:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:25:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.250 - - [25/Mar/2023 15:25:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.43.250:8000 (Press CTRL+C to quit)
